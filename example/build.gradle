@@ -7,8 +7,8 @@ android {
         applicationId "jp.wasabeef.example.glide"
         minSdkVersion rootProject.ext.android.minSdkVersion
         targetSdkVersion rootProject.ext.android.targetSdkVersion
-        versionCode 100
-        versionName "1.0.0"
+        versionCode 310
+        versionName "3.1.0"
     }
 
     buildTypes {

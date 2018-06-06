@@ -34,7 +34,7 @@ repositories {
 dependencies {
     implementation 'com.github.bumptech.glide:glide:4.6.1'
     annotationProcessor 'com.github.bumptech.glide:compiler:4.6.1'
-    implementation 'com.github.tomxukui:glide-transformations:1.0.0'
+    implementation 'com.github.tomxukui:glide-transformations:3.1.0'
     // If you want to use the GPU Filters
     implementation 'jp.co.cyberagent.android.gpuimage:gpuimage-library:1.4.1'
 }

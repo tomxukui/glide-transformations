@@ -72,8 +72,8 @@ android {
     ...
     defaultConfig { 
         ...
-        renderscriptTargetApi YOUR_TARGET_SDK_VERSION as int
-        renderscriptSupportModeEnabled true
+          renderscriptTargetApi rootProject.ext.android.targetSdkVersion
+          renderscriptSupportModeEnabled true
     }
 }
 ```
